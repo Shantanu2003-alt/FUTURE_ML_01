@@ -1,6 +1,7 @@
 # FUTURE_ML_01
+This project is part of a Machine Learning internship task provided by the organization Future Interns.
 
-https://ai-customer-dashboard.streamlit.app/
+https://ai-customer-dashboard.streamlit.app/     - Live link of the project
 
 A Streamlit-powered application for retail sales forecasting, built on historical data. It leverages Prophet for predictions and provides interactive visualizations of sales trends and key insights. Deploys and analyzes your sales data with ease.
 
